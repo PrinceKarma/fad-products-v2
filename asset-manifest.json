@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fad-products-v2/static/css/main.0347ae94.css",
-    "main.js": "/fad-products-v2/static/js/main.62290e30.js",
+    "main.css": "/fad-products-v2/static/css/main.5f1f7647.css",
+    "main.js": "/fad-products-v2/static/js/main.937acdff.js",
     "static/js/453.68c2ec17.chunk.js": "/fad-products-v2/static/js/453.68c2ec17.chunk.js",
     "static/media/fidget_spinner.png": "/fad-products-v2/static/media/fidget_spinner.a6de0b77838fd78c01c0.png",
     "static/media/heelys.png": "/fad-products-v2/static/media/heelys.9648ddefe1bc3e8b5872.png",
     "static/media/big_red_boots.jpg": "/fad-products-v2/static/media/big_red_boots.8662cc8dce87dd314725.jpg",
     "static/media/fanny_pack.jpg": "/fad-products-v2/static/media/fanny_pack.3677097db2e0ea3a8a0c.jpg",
     "index.html": "/fad-products-v2/index.html",
-    "main.0347ae94.css.map": "/fad-products-v2/static/css/main.0347ae94.css.map",
-    "main.62290e30.js.map": "/fad-products-v2/static/js/main.62290e30.js.map",
+    "main.5f1f7647.css.map": "/fad-products-v2/static/css/main.5f1f7647.css.map",
+    "main.937acdff.js.map": "/fad-products-v2/static/js/main.937acdff.js.map",
     "453.68c2ec17.chunk.js.map": "/fad-products-v2/static/js/453.68c2ec17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0347ae94.css",
-    "static/js/main.62290e30.js"
+    "static/css/main.5f1f7647.css",
+    "static/js/main.937acdff.js"
   ]
 }
